@@ -19,6 +19,9 @@ Use the provided scripts or APIs to detect image forgeries in your datasets.
 Experiment with different parameters and techniques to optimize detection performance.
 Contribute back by reporting issues, suggesting improvements, or submitting pull requests.
 
+## Dataset
+You can use any dataset but you should consider 7106 data at a time.
+
 ## Examples
 
 ### Figure 1: Detection of copy-move forgery in a digital image.
