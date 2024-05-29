@@ -32,4 +32,4 @@ Contributions
 Contributions are welcome! If you have ideas for improving forgery detection techniques, implementing new algorithms, or enhancing documentation, feel free to fork the repository and submit a pull request.
 
 ## License
-This project is licensed under the Attribution-NonCommercial 4.0 International Public License
+This project is licensed under the LICENSE
